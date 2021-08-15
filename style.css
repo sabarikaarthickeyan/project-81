@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-size: 40px;
+}
+.body_backgorund{
+   background-image: url("Adobe_Post_20210609_1700030.6860542351905344-1024x576.jpg");
+   background-position: center;
+   background-size: cover;
+}
+#mycanvas{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: cyan;
+    background-color: white;
+}
